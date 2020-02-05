@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+   font-size: x-large; 
+   text-decoration: blueviolet;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: brown;
+}
